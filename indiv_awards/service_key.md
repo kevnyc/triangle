@@ -59,7 +59,7 @@ The Triangle Service Key is presented for pre-eminent work in developing the Nat
 |1987|Robert B. Rosenberg| Armour|1955|
 |1990|Charles S. Barbour|Penn State|1943|
 |1991|Chauncey A. Fahey| Wisconsin| 1948|
-||Merle Newlon III|Louisville|1973|
+|1991|Merle Newlon III|Louisville|1973|
 |1994|Robert D. Hoel|Armour|1967|
 |1995|Gerald S. Jakubowski|Toledo|1974|
 |1995|Randy G. Kerns|Missouri Mines|1971|
