@@ -59,7 +59,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>
+<td>Matthew A. Ricketts lou95 (2024)
 </td></tr>
 
 <tr>

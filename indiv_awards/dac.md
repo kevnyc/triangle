@@ -58,5 +58,6 @@ and the National Secretary.
 |2022|Ronald E. Barr|Marquette|1967|
 |2024|Jeffrey J. Basso|MSOE|1989|
 |2024|Kevin P. Robertson|Marquette|1992|
+|2024|Matthew A. Ricketts|Louisville|1995|
 
 ----
