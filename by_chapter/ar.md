@@ -97,6 +97,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Building a Better World Award:</td>
+<td>
+</td></tr>
+<tr>
+
 <td>Order of the Transit:</td>
 <td>Robert Patten ar01 (2003)
 </td></tr>

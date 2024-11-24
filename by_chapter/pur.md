@@ -156,6 +156,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Building a Better World Award:</td>
+<td>
+</td></tr>
+<tr>
+
 <td>Order of the Transit:</td>
 <td>Gary N. Bodnar pur76 (2017) (nominated by Cincinnati Chapter)
 </td></tr>

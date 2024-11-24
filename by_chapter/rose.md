@@ -84,6 +84,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Building a Better World Award:</td>
+<td>
+</td></tr>
+<tr>
+
 <td>Order of the Transit:</td>
 <td>Cary Laxer rose88asc (2010)
 </td></tr>
