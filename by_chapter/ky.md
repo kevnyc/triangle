@@ -87,6 +87,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Building a Better World Award:</td>
+<td>James E. Schier ky66 (2024)
+</td></tr>
+<tr>
+
 <td>Order of the Transit:</td>
 <td>
 </td></tr>

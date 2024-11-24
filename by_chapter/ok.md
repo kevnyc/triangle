@@ -77,6 +77,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Building a Better World Award</td>
+<td>Stephen R. Loftus-Mercer ok96 (2022)
+</td></tr>
+<tr>
+
 <td>Order of the Transit:</td>
 <td>George R. Griffin ok78 (2006)
 </td></tr>
