@@ -1,5 +1,5 @@
 ---
-title: Section 3 - Pledge Pin
+title: Section 3 - Candidate Pin
 layout: default
 parent: Article 5 - Emblems and Motto
 grand_parent: National Bylaws

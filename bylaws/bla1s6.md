@@ -1,5 +1,5 @@
 ---
-title: Section 6 - Release of Pledges and Members
+title: Section 6 - Release of Candidates and Members
 layout: default
 parent: Article 1 - Membership
 grand_parent: National Bylaws
