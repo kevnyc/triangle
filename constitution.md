@@ -6,7 +6,7 @@ nav_order: 3
 
 # Triangle Fraternity National Constitution
 
-As in effect on August 3, 20204.
+As in effect on August 3, 2024.
 
 <details open markdown="block">
   <summary>
