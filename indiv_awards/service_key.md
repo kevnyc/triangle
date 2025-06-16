@@ -78,5 +78,6 @@ The Triangle Service Key is presented for pre-eminent work in developing the Nat
 |2013|John K. Malmquist| Wisconsin| 1972|
 |2017|James A. McShane|Marquette| 1965|
 |2017|Alex P. Ver| Armour|1965|
+|2025|John C. Gargani|Pitt|1982|
 
 ----

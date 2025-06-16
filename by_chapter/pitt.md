@@ -26,7 +26,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Service Key:</td>
-<td>
+<td>John C. Gargani pitt82 (2025)
 </td></tr>
 
 <tr>
