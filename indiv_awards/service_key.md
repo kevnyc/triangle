@@ -23,7 +23,7 @@ The Triangle Service Key is presented for pre-eminent work in developing the Nat
 |1935|C. Norman Beggs| Illinois|1918|
 |1936|C. Vernon Potter|Ohio State|1911|
 |1938|Frederick G. Higbee| Iowa|1922 (Honorary)|
-|1939|Irving M. Clicquenoi|Purdue|1909|
+|1939|Irving M. Clicquennoi|Purdue|1909|
 |1940|Daniel W. Mead|Wisconsin| 1914 (National Honorary)|
 |1941|Lindon S. Gaston|Purdue|1917|
 |1943|Alan C. Rockwood|Iowa|1922|

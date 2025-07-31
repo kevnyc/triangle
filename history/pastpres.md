@@ -12,7 +12,7 @@ nav_order: 5
 |1910-11|Harry H. Burgess|Illinois|1908|
 |1911-13|Willard A. Knapp|Illinois|1908 (Associate)|
 |1913-14|Louis W. Bruck|Purdue|1909|
-|1914-15|Irving M. Clicquenoi|Purdue|1909|
+|1914-15|Irving M. Clicquennoi|Purdue|1909|
 |1915-16|Howard F. Schryver|Ohio State|1911|
 |1916-17|Max F. Rather|Wisconsin|1913|
 |1917-18|Frank T. Sheets|Illinois|1911|

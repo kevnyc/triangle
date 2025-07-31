@@ -19,7 +19,7 @@ parent: Awards by Chapter
 <br>Charles V.R. Fullenwider pur09 (1909-12)
 <br>Ray V. Rosenbaum pur09 (1909-11)
 <br>Oliver G. Taylor pu09 (1909)
-<br><b>Irving M. Clicquenoi</b> pur09 (1913-15)
+<br><b>Irving M. Clicquennoi</b> pur09 (1913-15)
 <br><b>George E. Lommel</b> pur12asc (1918-22)
 <br>Earl D. Dryfoose pur18 (1920-21)
 <br>Cecil V. Maudlin pur14 (1921-22)
