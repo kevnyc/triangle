@@ -51,7 +51,7 @@ parent: Awards by Chapter
 <td>Service Key:</td>
 <td>Luster R. Kleinknight pur16 (1927)
 <br>Louis W. Bruck pur09 (1931)
-<br>Irving M. Clicquenoi pur09 (1939)
+<br>Irving M. Clicquennoi pur09 (1939)
 <br>Lindon S. Gaston pur17 (1941)
 <br>Irvin D. Mayer pur14 (1945)
 <br>Charles R. Little pur23 (1950)
