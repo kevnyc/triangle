@@ -125,7 +125,7 @@ nav_order: 6
 |Masuda, Stuart J.|UC Irvine|2007|2015-present|
 |Maudlin, Cecil V.|Purdue|1914|1921-1922|
 |Maxon, Bruce E.|Cincinnati|1921|1927-1929|
-|Mayer, Irwin D.|Purdue|1914|1929-1934|
+|Mayer, Irvin D.|Purdue|1914|1929-1934|
 |McCoy, Milton H.|Illinois|1907|1909|
 |McDonnell, Michael D.|Michigan|1964|1969-1970|
 |McGovern, William R.|Marquette|1955|1975-1982|

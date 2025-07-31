@@ -154,24 +154,24 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Harold H. Layritz  cin21|
-|Member                 |Irwin D. Mayer  pur14|
+|Member                 |Irvin D. Mayer  pur14|
 | | |
 |<a name="1930"></a>__1930-31__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Harold H. Layritz  cin21|
-|Member                 |Irwin D. Mayer  pur14|
+|Member                 |Irvin D. Mayer  pur14|
 | | |
 |__1931-32__||
-|President              |Irwin D. Mayer  pur14|
+|President              |Irvin D. Mayer  pur14|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles R. Little  pur23|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1932-33__||
-|President              |Irwin D. Mayer  pur14|
+|President              |Irvin D. Mayer  pur14|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles R. Little  pur23|
@@ -181,7 +181,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |President              |Charles R. Little  pur23|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer    |Harold H. Layritz  cin21|
-|Member                 |Irwin D. Mayer  pur14|
+|Member                 |Irvin D. Mayer  pur14|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1934-35__||
