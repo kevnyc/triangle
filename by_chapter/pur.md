@@ -19,7 +19,7 @@ parent: Awards by Chapter
 <br>Charles V.R. Fullenwider pur09 (1909-12)
 <br>Ray V. Rosenbaum pur09 (1909-11)
 <br>Oliver G. Taylor pu09 (1909)
-<br><b>Irving M. Clicquenoi</b> pur09 (1913-15)
+<br><b>Irving M. Clicquennoi</b> pur09 (1913-15)
 <br><b>George E. Lommel</b> pur12asc (1918-22)
 <br>Earl D. Dryfoose pur18 (1920-21)
 <br>Cecil V. Maudlin pur14 (1921-22)
@@ -51,7 +51,7 @@ parent: Awards by Chapter
 <td>Service Key:</td>
 <td>Luster R. Kleinknight pur16 (1927)
 <br>Louis W. Bruck pur09 (1931)
-<br>Irving M. Clicquenoi pur09 (1939)
+<br>Irving M. Clicquennoi pur09 (1939)
 <br>Lindon S. Gaston pur17 (1941)
 <br>Irvin D. Mayer pur14 (1945)
 <br>Charles R. Little pur23 (1950)
