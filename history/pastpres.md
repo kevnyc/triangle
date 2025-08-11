@@ -84,5 +84,6 @@ nav_order: 5
 |2017-19|Brian K. Jarman|Purdue|2001|
 |2019-21|Joseph M. Cerrato|Ohio State|2005|
 |2021-23|John C. Cottage, Jr.|Penn State|2004|
-|2023- |Ryan M. Sunyak|Toledo|2010|
+|2023-25|Ryan M. Sunyak|Toledo|2010|
+|2025- |Peter L. Satre|Ohio State|1989|
 |
