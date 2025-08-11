@@ -40,7 +40,7 @@ nav_order: 6
 |Campbell, C. Alfred|Ohio State|1914|1922-1923|
 |Caplan, Frank, Jr.|Cornell|1942|1956-1961|
 |Cerrato, Joseph M.|Ohio State|2005|2011-2013, 2014-2023|
-|Clark, Jackson T.|Louisville|2021|2024-present|
+|Clark, Jackson T.|Louisville|2021|2024-2025|
 |Clark, Patrick J.|Marquette|1954|1961-1964|
 |Clicquennoi, Irving M.|Purdue|1909|1913-1915|
 |Coller, James A.|Michigan|2013|2016-2017|
@@ -109,6 +109,7 @@ nav_order: 6
 |Kingston, William J.|Cornell|1948|1954-1963|
 |Kleinknight, Luster R.|Purdue|1916|1922-1926|
 |Knapp, Willard A.|Illinois|1908 (Asc)|1911-1917|
+|Kotschevar-Smead, Kyan|Washington State|2025|2025-present|
 |Kumar, Neel|Minnesota|2014|2023-2024|
 |Lantz, Raymond L.|Penn State|1951|1970-1972|
 |Larson, Edward|Cincinnati|1922|1947-1950|
