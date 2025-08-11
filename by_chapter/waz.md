@@ -15,7 +15,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>
+<td>Kyan Kotschevar-Smead waz25 (2025- )
 </td></tr>
 
 <tr>
