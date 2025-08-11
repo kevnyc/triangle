@@ -1015,7 +1015,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
-|Active Councilman      |Nicholas Armstrong uw18|
+|Active Councilman      |Nicholas Armstrong wash18|
 |Immediate Past Pres    |Brian K. Jarman pur01|
 | | |
 |<a name="2020"></a>__2020-21__||
