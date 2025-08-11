@@ -15,12 +15,12 @@ parent: Awards by Chapter
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Nicholas Armstrong uw18 (2019-20) 
+<td>Nicholas Armstrong wash18 (2019-20) 
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>Nicholas Armstrong uw18 (2019-20) 
+<td>Nicholas Armstrong wash18 (2019-20) 
 </td></tr>
 
 <tr>
@@ -105,7 +105,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Executive Board Member of the Year:</td>
-<td>Garrett Wattawa uw22 (2024)
+<td>Garrett Wattawa wash22 (2024)
 </td></tr>
 
 <tr>
