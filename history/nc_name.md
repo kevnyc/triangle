@@ -15,6 +15,7 @@ nav_order: 6
 |Amerman, Daniel J.|Michigan Tech|1995|2001-2003|
 |Armstrong, Nicholas|Washington|2018|2019-2020|
 |Bagwell, Brandon W.|Oklahoma|2004|2013-2014|
+|Bakle, Curtis J.|Toledo|1989|2025-present|
 |Barbour, Charles S.|Penn State|1943|1978-1986|
 |Bauer, Edward E.|Illinois|1916|1928-1929|
 |Beaubien, Richard F.|Michigan|1964|1974-1979|
@@ -44,7 +45,7 @@ nav_order: 6
 |Clark, Patrick J.|Marquette|1954|1961-1964|
 |Clicquennoi, Irving M.|Purdue|1909|1913-1915|
 |Coller, James A.|Michigan|2013|2016-2017|
-|Cottage, John C., Jr.|Penn State|2004|2014-present|
+|Cottage, John C., Jr.|Penn State|2004|2014-2025|
 |Cottrell, Jeffrey D.|Michigan Tech|1994|2007-2015|
 |Cress, Eldred E.|Illinois|1916|1923-1926|
 |Cross, Early T.|Kentucky|1920|1924-1925|

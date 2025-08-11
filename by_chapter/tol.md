@@ -22,6 +22,7 @@ parent: Awards by Chapter
 <br><b>Ryan M. Sunyak</b> tol10 (2016- )
 <br>Tyler J. Moore tol09 (2019- )
 <br>Marcus Mullins tol19 (2020-21)
+<br>Curtis J. Bakle tol89 (2025- )
 </td></tr>
 
 <tr>
