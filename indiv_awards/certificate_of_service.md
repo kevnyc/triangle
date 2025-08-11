@@ -153,7 +153,6 @@ The Triangle Certificate of Service is presented at the discretion of National C
 |2022|Seth H. Pierre|Iowa State|2019|
 |2022|Joseph V. Salvucci|Pittsburgh|1976|
 |2023|Joseph M. Cerrato|Ohio State|2005|
-|2023|John C. Cottage, Jr.|Penn State|2004|
 |2023|Connor R. Grossnickle|Wisconsin|2019|
 |2023|Bradley N. Keller|Nebraska|1969|
 |2023|Merle Newlon III|Louisville|1973|
