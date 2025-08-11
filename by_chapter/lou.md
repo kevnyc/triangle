@@ -21,7 +21,7 @@ parent: Awards by Chapter
 <br><b>Bret T. Feger</b> lou86 (1996-2005)
 <br>H. Andrew Goss lou00 (2007-12)
 <br>Ryan A. Burt lou15 (2017-18)
-<br>Jackson T. Clark lou21 (2024- )
+<br>Jackson T. Clark lou21 (2024-25)
 <br>Darrell G. Messer II lou03 (2024- )
 </td></tr>
 
@@ -45,6 +45,7 @@ parent: Awards by Chapter
 <br>H. Andrew Goss lou00 (2012)
 <br>W. Jason Hines lou08 (2013)
 <br>Ryan A. Burt lou15 (2018)
+<br>Jackson T. Clark lou21 (2025)
 </td></tr>
 
 <tr>

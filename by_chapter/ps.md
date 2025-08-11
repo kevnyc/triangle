@@ -22,7 +22,7 @@ parent: Awards by Chapter
 <br>Gifford H. Albright ps52 (1982-85)
 <br>Robert N. Bowman ps87 (2000-02)
 <br>David H. Yick ps63 (2013-17)
-<br><b>John C. Cottage, Jr.</b> ps04 (2014- )
+<br><b>John C. Cottage, Jr.</b> ps04 (2014-25)
 </td></tr>
 
 <tr>
@@ -43,7 +43,7 @@ parent: Awards by Chapter
 <br>Gifford H. Albright ps52 (1985)
 <br>Robert N. Bowman ps87 (2002)
 <br>David H. Yick ps63 (2017)
-<br>John C. Cottage, Jr. ps04 (2023)
+<br>John C. Cottage, Jr. ps04 (2025)
 </td></tr>
 
 <tr>

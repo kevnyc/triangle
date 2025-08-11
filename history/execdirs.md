@@ -24,4 +24,5 @@ position.
 |2000-2006|Paul Lawson|
 |2006-2015|Brian Tenclinger|
 |2015-2016|Chris Hancock|
-|2016-    |Tom Pennington|
+|2016-2025|Tom Pennington|
+|2025-|Morgan Brickley|

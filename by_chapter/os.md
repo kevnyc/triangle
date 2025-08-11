@@ -33,7 +33,7 @@ parent: Awards by Chapter
 <br>Carl P. Meglan os56 (1986-88) 
 <br>James A. Sands os80 (1994-96) 
 <br><b>Joseph M. Cerrato</b> os05 (2011-13, 2014-23)
-<br>Peter L. Satre os89 (2017- )
+<br><b>Peter L. Satre</b> os89 (2017- )
 </td></tr>
 
 <tr>

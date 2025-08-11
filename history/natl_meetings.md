@@ -125,4 +125,5 @@ members. Leadership School includes the Awards Luncheon and Annual Banquet.
 |July 7-9, 2022|Orlando, Florida|Convention|
 |July 27-30, 2023|Dayton, Ohio|Leadership School|
 |August 1-3, 2024|Milwaukee, Wisconsin|Convention|
+|July 31-August 3, 2025|Dayton, Ohio|Leadership School|
 
