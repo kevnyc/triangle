@@ -848,6 +848,8 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>The UCLA Active Organization is suspended following a risk management violation.</dd>
 <dt><strong>August 1-3, 2024</strong></dt>
 <dd>National Convention is held in Milwaukee, Wisconsin.</dd>
+<dt><strong>July 1, 2025</strong></dt>
+<dd>Morgan Brickley takes office as Triangle's Executive Director.</dd>
 <dt><strong>July 31-August 3, 2025</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Dayton, Ohio.</dd>
 <dt><strong>August 1, 2025</strong></dt>
