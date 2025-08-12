@@ -3,7 +3,7 @@ title: Summit Award Winners
 layout: default
 parent: General
 grand_parent: Chapter Awards
-nav_order: 5
+nav_order: 6
 ---
 
 # Summit Award Winners (1996-2000)

@@ -3,7 +3,7 @@ title: Rattle Award
 layout: default
 parent: General
 grand_parent: Chapter Awards
-nav_order: 3
+nav_order: 4
 ---
 
 # Rattle Award

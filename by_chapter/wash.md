@@ -148,7 +148,6 @@ parent: Awards by Chapter
 <br>2021 - Building Better Men Award - Rattle Award
 <br>2024 - Most Improved Chapter
 <br>2025 - Most Improved Chapter
-<td>2025 - Rattle Award
 </td></tr>
 
 <tr>
