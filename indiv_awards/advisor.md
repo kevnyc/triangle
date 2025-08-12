@@ -22,5 +22,6 @@ The Chapter Advisor of the Year Award (previously the Outstanding Advisor Award)
 |2022|Mark D. Bowman|Purdue|1971|
 |2023|David R. Schwickerath|Iowa State|1968|
 |2024|Christopher J. Gust|MSOE|2012|
+|2025|Bret T. Feger|Louisville|1986|
 
 ----

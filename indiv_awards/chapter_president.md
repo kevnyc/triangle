@@ -19,5 +19,6 @@ Awarded to a chapter president who not only fulfilled the responsibilities of hi
 |2022|Shane W. C. Jost|UCSD|2022|
 |2023|Deepansh Agarwal|MSOE|2019|
 |2024|Gabriel Lipps|Michigan State|2022|
+|2025|Jacob Meyer|Ohio State|2023|
 
 ----

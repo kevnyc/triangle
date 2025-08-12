@@ -17,5 +17,6 @@ The Outstanding National Involvement by a Chapter Award recognizes a chapter who
 |2022|Toledo|
 |2023|Ohio State|
 |2024|Iowa State|
+|2025|Louisville|
 
 ----

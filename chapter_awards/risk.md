@@ -17,5 +17,6 @@ An effective Risk Management Program is essential to any chapter’s survival. T
 |2022|Iowa State|
 |2023|Iowa State|
 |2024|MSOE|
+|2025|Wisconsin|
 
 ----

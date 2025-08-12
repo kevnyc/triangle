@@ -19,5 +19,6 @@ Awarded to an individual who most recently served on his chapter's executive boa
 |2022|Evan B. Elliott|Toledo|2019|
 |2023|Nicholas Huetteman|Michigan Tech|2021|
 |2024|Garrett Wattawa|Washington|2022|
+|2025|William Wittich|Rose Tech|2023|
 
 ----

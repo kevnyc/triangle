@@ -20,5 +20,6 @@ Awarded to a senior member who has remained actively involved and engaged within
 |2023|Joshua C. Wortman|Nebraska|2019|
 |2024|Steven Egnaczyk|Ohio State|2021|
 |2024|Ethan Rosonke|Iowa State|2020|
+|2025|Jansen Biddle|Rose Tech|2022|
 
 ----

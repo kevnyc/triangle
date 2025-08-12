@@ -16,5 +16,6 @@ nav_order: 7
 |2022|Connor J. Patton|Rose Tech|2021|
 |2023|Darwin Yu|UCSD|2022|
 |2024|Ryan Wilson|Iowa State|2023|
+|2025|Jay Bell|Iowa State|2023|
 
 ----

@@ -19,5 +19,6 @@ The Triangle Education Foundation with the generous support of the Kahlert Found
 |2022|1st: Pittsburgh<br>2nd: Ohio State<br>3rd: Michigan State<br>Most Improved: Michigan State|
 |2023|1st: Michigan and Pittsburgh (tie)<br>2nd: Ohio State<br>3rd: Wisconsin<br>Most Improved: Louisville|
 |2024|1st: Michigan<br>2nd: Michigan Tech<br>3rd: Wisconsin<br>Most Improved: Minnesota|
+|2025|1st: Washington<br>2nd: Wisconsin<br>3rd: Ohio State<br>Most Improved: UWM|
 
 ----

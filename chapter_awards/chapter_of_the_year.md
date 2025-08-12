@@ -18,5 +18,6 @@ The achievement of scholarship, leadership, service, and brotherhood is the ulti
 |2022|Michigan State|
 |2023|MSOE|
 |2024|Louisville|
+|2025|Iowa State|
 
 ----
