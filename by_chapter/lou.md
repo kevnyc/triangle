@@ -109,7 +109,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Advisor Award/Chapter Advisor of the Year:</td>
-<td>
+<td>Bret T. Feger lou86 (2025)
 </td></tr>
 
 <tr>
@@ -225,6 +225,8 @@ parent: Awards by Chapter
 <br>2018 - Community Service Award
 <br>2019 - Community Service Award
 <br>2019 - National Involvement Award
+<br>2025 - Campus Involvement Award
+<br>2025 - National Involvement Award
 </td></tr>
 
 <tr>

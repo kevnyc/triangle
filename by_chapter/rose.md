@@ -117,7 +117,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Executive Board Member of the Year:</td>
-<td>
+<td>William Wittich rose23 (2025)
 </td></tr>
 
 <tr>
@@ -127,7 +127,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Senior of the Year:</td>
-<td>
+<td>Jansen Biddle rose22 (2025)
 </td></tr>
 
 <tr>
@@ -142,7 +142,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Andrew Cameron rose23 (2025)
 </td></tr>
 
 </tbody>
@@ -228,6 +228,7 @@ parent: Awards by Chapter
 <br>2011 - Campus Involvement Award
 <br>2011 - Community Service Award
 <br>2013 - Campus Involvement Award
+<br>2025 - Chapter Operations Award
 </td></tr>
 
 <tr>

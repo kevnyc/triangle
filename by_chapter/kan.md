@@ -189,6 +189,7 @@ parent: Awards by Chapter
 <br>2014 - New Member Retention Award
 <br>2015 - New Member Retention Award
 <br>2016 - Growth Award
+<br>2025 - Recruitment and Retention Award
 </td></tr>
 
 <tr>

@@ -178,7 +178,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Elias S. Erling marq23 (2025)
 </td></tr>
 
 </tbody>

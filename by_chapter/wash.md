@@ -110,7 +110,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Brother of the Year:</td>
-<td>
+<td>Jacob Faulk wash22 (2025)
 </td></tr>
 
 <tr>
@@ -147,11 +147,14 @@ parent: Awards by Chapter
 <br>2020 - Building Better Men Award - Rattle Award
 <br>2021 - Building Better Men Award - Rattle Award
 <br>2024 - Most Improved Chapter
+<br>2025 - Most Improved Chapter
+<td>2025 - Rattle Award
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
 <td>2020 - Outstanding Academic Excellence - 1st place
+<br>2025 - Outstanding Academic Excellence - 1st place
 </td></tr>
 
 <tr>

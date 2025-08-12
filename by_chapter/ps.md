@@ -156,7 +156,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Justin Quinn ps23 (2025)
 </td></tr>
 </tbody>
 </table>

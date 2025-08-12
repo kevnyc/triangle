@@ -201,6 +201,7 @@ parent: Awards by Chapter
 <br>2018 - Outstanding Academic Excellence - 2nd place
 <br>2023 - Outstanding Academic Excellence - 3rd place
 <br>2024 - Outstanding Academic Excellence - 3rd place
+<br>2025 - Outstanding Academic Excellence - 2nd place
 </td></tr>
 
 <tr>
@@ -225,6 +226,7 @@ parent: Awards by Chapter
 <br>2022 - Philanthropy and Service Award
 <br>2023 - Philanthropy and Service Award
 <br>2023 - Chapter Operations Award
+<br>2025 - Risk Reduction and Education Award
 </td></tr>
 
 <tr>

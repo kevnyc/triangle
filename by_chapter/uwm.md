@@ -158,6 +158,7 @@ parent: Awards by Chapter
 <td>1971 - Scholarship Plaque
 <br>2006 - Highest Pledge GPA
 <br>2011 - Scholarship Plaque
+<br>2025 - Outstanding Academic Excellence - Most Improved
 </td></tr>
 
 <tr>

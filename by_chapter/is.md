@@ -70,7 +70,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Engineer/Architect/Scientist of the Year:</td>
-<td>
+<td>John "Jack" Martin is23 (2025)
 </td></tr>
 
 <tr>
@@ -82,6 +82,7 @@ parent: Awards by Chapter
 <td>Outstanding Philanthropy and Service by an Individual:</td>
 <td>David M. Gunger is19 (2021)
 <br>Ryan Wilson is23 (2024)
+<br>Jay Bell is23 (2025)
 </td></tr>
 
 <tr>
@@ -140,6 +141,8 @@ parent: Awards by Chapter
 <td>Living Your Values Award:</td>
 <td>Ben J. Johnson is19 (2022)
 <br>Gabriel Bayse is21 (2024)
+<br>Robert R. Balsbaugh is74 (2025)
+<br>Eli Walter is22 (2025)
 </td></tr>
 
 <tr>
@@ -183,6 +186,7 @@ parent: Awards by Chapter
 <br>2020 - Building Better Men Award - 1st place
 <br>2020 - Chapter of the Year
 <br>2024 - Building Better Men Award - 2nd place
+<br>2025 - Chapter of the Year
 </td></tr>
 
 <tr>
@@ -222,6 +226,7 @@ parent: Awards by Chapter
 <br>2023 - Risk Reduction and Education Award
 <br>2024 - National Involvement Award
 <br>2024 - Chapter Operations Award
+<br>2025 - Philanthropy and Service Award
 </td></tr>
 
 <tr>

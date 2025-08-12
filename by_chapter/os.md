@@ -141,7 +141,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>
+<td>Jacob Meyer os23 (2025)
 </td></tr>
 
 <tr>
@@ -220,6 +220,7 @@ parent: Awards by Chapter
 <br>2019 - Outstanding Academic Excellence - 1st place
 <br>2022 - Outstanding Academic Excellence - 2nd place
 <br>2023 - Outstanding Academic Excellence - 2nd place
+<br>2025 - Outstanding Academic Excellence - 3rd place
 
 </td></tr>
 
