@@ -6,9 +6,9 @@ nav_order: 2
 
 Chapter Status
 ==============
-<b>Chapters (27):</b> Armour, Cincinnati, Clemson, Illinois, Iowa State, Kansas, Kentucky, Louisville, Michigan, Michigan State, Michigan Tech, Minnesota, Missouri Mines, MSOE, Ohio State, Penn State, Penn State Behrend, Pitt, Purdue, Rose Tech, South Dakota Mines, Toledo, Utah, UWM, VPI, Washington, Wisconsin
+<b>Chapters (28):</b> Armour, Cincinnati, Clemson, Illinois, Iowa State, Kansas, Kentucky, Louisville, Michigan, Michigan State, Michigan Tech, Minnesota, Missouri Mines, MSOE, Ohio State, Penn State, Penn State Behrend, Pitt, Purdue, Rose Tech, South Dakota Mines, Toledo, Utah, UWM, VPI, Washington, Washington State, Wisconsin
 
-<b>Colonies (10):</b> Colorado, Colorado State, Denver (den), Grand Valley State (gvs), Marquette, Nebraska, Texas (tex), Texas A&M, UCSD, Washington State (waz)
+<b>Colonies (9):</b> Colorado, Colorado State, Denver (den), Grand Valley State (gvs), Marquette, Nebraska, Texas (tex), Texas A&M, UCSD
 
 <b>Interest Groups (0):</b>  
 

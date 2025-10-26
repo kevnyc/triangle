@@ -854,4 +854,6 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>Herbert F. Scobie Leadership School is held in Dayton, Ohio.</dd>
 <dt><strong>August 1, 2025</strong></dt>
 <dd>The UC Irvine Chapter is suspended by National Council.</dd>
+<dt><strong>October 4, 2025</strong></dt>
+<dd>The Washington State Chapter is installed at the Washington State University in Pullman.</dd>
 

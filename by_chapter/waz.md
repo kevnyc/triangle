@@ -6,7 +6,7 @@ parent: Awards by Chapter
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# Washington State Colony Awards
+# Washington State Chapter Awards
 
 ## Individual Honors
 
