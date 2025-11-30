@@ -10,7 +10,7 @@ At the 1915 National Convention, Triangle adopted a design for a coat of arms. I
 
 Rattle I (created in 1922), with the original coat of arms.
 
-![Rattle I}](/assets/images/rattle.png "Rattle I")
+![Rattle I}](/triangle/assets/images/rattle.png "Rattle I")
 
 25th Anniversary Founders' Plaque, presented to the Illinois Chapter in 1932.
 
