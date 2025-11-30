@@ -81,4 +81,37 @@ HELP CREATE IN MY CHAPTER HOME AN ENVIRONMENT IN WHICH ENDURING FRIENDSHIPS MAY 
 <li>A chapter with shared housing, whether it is owned, rented, or otherwise designated, shall have chapter bylaws and policies that regulate the requirements for individual members to live in the facility. The chapter shall have a policy for ensuring that its facility is filled whenever conditions permit and establishing a method for who may live out of the facility.</li>
 </ol>
 
+<strong>
+4.4.9.
+</strong>
+MAINTAIN A CREDITABLE SCHOLASTIC RECORD
+<ol type="a">
+<li>A chapter only initiates candidates that meet the minimum qualification for membership (minimum GPA of 2.5 at the time of initiation)</li>
+<li>A chapter maintains an average chapter GPA of 2.7 or above and an average candidate GPA of 2.7 or above</li>
+</ol>
+
+<strong>
+4.4.10.
+</strong>
+PROMOTE THE WELFARE OF MY PROFESSION
+<ol type="a">
+<li>At least fifty percent (50%) of the active members of a chapter are members of a professional organization</li>
+</ol>
+
+<strong>
+4.4.11.
+</strong>
+MAINTAIN MY SELF-RESPECT BY PROPER CONDUCT AT ALL TIMES
+<ol type="a">
+<li>All active members and candidates of a chapter have completed all risk prevention education required by TRIANGLE and by their university</li>
+</ol>
+
+<strong>
+4.4.12.
+</strong>
+UPHOLD FAITHFULLY THE TRADITIONS AND PROGRAM OF MY ALMA MATER
+<ol type="a">
+<li>A chapter’s community service level meets or exceeds the minimum mandated by their campus’s governing council, and is at least ten (10) hours per member per year</li>
+</ol>
+
 ---
