@@ -14,9 +14,9 @@ Rattle I (created in 1922), with the original coat of arms.
 
 25th Anniversary Founders' Plaque, presented to the Illinois Chapter in 1932.
 
-![Founders Plaque](/assets/images/plaque.png "Founders Plaque")
+![Founders Plaque](/triangle/assets/images/plaque.png "Founders Plaque")
 
 At that same 1932 Convention, the current coat of arms design was adopted, incorporating revisions made (with the assistance of our official jeweler) to conform more closely with the principles of heraldry. The new design was presented to the general membership in the September 1932 issue of Triangle Review.
 
-![New Coat of Arms](/assets/images/cofa_review.png "New Coat of Arms")
+![New Coat of Arms](/triangle/assets/images/cofa_review.png "New Coat of Arms")
 
