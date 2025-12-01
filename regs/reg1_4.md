@@ -22,6 +22,6 @@ Fraternity Regulations shall be issued by subject.
 <strong>
 1.4.2.
 </strong>
-Copies of the Fraternity Regulations shall be distributed and updated under the procedure provided in Sections 1.3.1 through 1.3.3, inclusive, of Fraternity Regulation 1.3.
+Copies of the Fraternity Regulations shall be distributed and updated under the procedure provided in Sections 1.3.1 through 1.3.3, inclusive, of <a href="triangle/regs/reg1_3.html">Fraternity Regulation 1.3</a>.
 
 ---
