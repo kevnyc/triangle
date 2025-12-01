@@ -22,12 +22,12 @@ Every precaution shall be taken by all members of TRIANGLE to prevent any intell
 <strong>
 1.5.2.
 </strong>
-Distribution of the Graduation Ceremony shall be guided by the general rules provided in Section 1.1.2 of Fraternity Regulation 1.1.
+Distribution of the Graduation Ceremony shall be guided by the general rules provided in Section 1.1.2 of <a href="/triangle/regs/reg1_1.html">Fraternity Regulation 1.1</a>.
 
 <strong>
 1.5.3.
 </strong>
-Complete copies of the Graduation Ceremony shall be distributed and updated under the procedure provided in Sections 1.2.1 through 1.2.7, inclusive, of Fraternity Regulation 1.2, with the following exception:
+Complete copies of the Graduation Ceremony shall be distributed and updated under the procedure provided in Sections 1.2.1 through 1.2.7, inclusive, of <a href="/triangle/regs/reg1_2.html">Fraternity Regulation 1.2</a>, with the following exception:
 <ol type="a">
 <li>Equipment which is used in the Graduation Ceremony but not in the Ritual shall remain the property of its owner.</li>
 </ol>
