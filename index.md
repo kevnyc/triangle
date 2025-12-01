@@ -4,13 +4,8 @@ layout: default
 nav_order: 1
 ---
 
-To Do:
+Welcome to Kevin's Triangle Pages.
 
-- [ ] Bylaw Revision History
-- [ ] Regulation Revision History
-- [ ] Regulation internal links
-- [ ] National Headquarters
-- [ ] Rattle history
-- [ ] Coat of Arms History
+Use the menu or the search field to find what you're looking for
 
 
