@@ -12,7 +12,7 @@ nav_order: 208
 
 ## NATIONAL AFFAIRS / Awards
 
-Revised August 3, 2014
+Revised November 8, 2025
 
 
 <strong>
@@ -155,7 +155,20 @@ Revised August 3, 2014
 </ol>
 
 <strong>
-2.8.10. Richard H. Sudheimer Interfraternal Leadership Award
+2.8.10. Tom Pennington Triangle Partner Award
+</strong>
+<ol type="a">
+<li>The Tom Pennington Triangle Partner Award is intended to recognize significant contributions by non-members of Triangle Fraternity to the advancement of Triangle and its members. Candidates include, but are not limited to, university staff, members of the Greek community, suppliers and vendors, current and former Triangle staff, and relatives of Triangle members.
+</li>
+<li>Nomination Process: A nomination may be submitted by a Triangle staff member, National Council member, Triangle Education Foundation member, chapter alumni officer, or a majority vote of the active organization of any Triangle chapter. 
+</li>
+<li>The nomination shall be written and shall include a summary of the individual's contributions to Triangle.
+</li>
+<li>Award Process: The award shall be given upon a majority vote by the members of National Council. The National President or his designee shall present the award in a manner that is fitting and appropriate. Notice of the award shall be placed in Triangle Review and delivered to each chapter and alumni organization to be read and recorded.</li>
+</ol>
+
+<strong>
+2.8.11. Richard H. Sudheimer Interfraternal Leadership Award
 </strong>
 <ol type="a">
 <li>The Richard H. Sudheimer Interfraternal Leadership Award is intended to recognize significant contributions by non-members of Triangle Fraternity to the betterment of the interfraternal movement. Candidates include, but are not limited to, Greek advisors, university administrators, faculty members, fraternity and sorority staff members, suppliers and vendors, and parents.</li>
@@ -169,7 +182,7 @@ Revised August 3, 2014
 </ol>
 
 <strong>
-2.8.11. Outstanding Advisor Award
+2.8.12. Outstanding Advisor Award
 </strong>
 <ol type="a">
 <li>The Outstanding Advisor Award is presented to Triangle members or non-members in acknowledgement of their having rendered significant service as an Advisor to a chapter of Triangle for a period of at least five (5) years.</li>
@@ -178,7 +191,7 @@ Revised August 3, 2014
 </ol>
 
 <strong>
-2.8.12. Cap Henning ill16 Altruism Award
+2.8.13. Cap Henning ill16 Altruism Award
 </strong>
 <ol type="a">
 <li>The Cap Henning ill16 Altruism Award is intended to recognize members of Triangle Fraternity who have made an exemplary contribution to a better world through one or more of the following:
@@ -193,7 +206,7 @@ Revised August 3, 2014
 </ol>
 
 <strong>
-2.8.13. Top Triangle Pin
+2.8.14. Top Triangle Pin
 </strong>
 <ol type="a">
 <li>Eligibility is on the basis of special service to the Fraternity. Members eligible to wear the Top TRIANGLE Recognition Pin include National Honorary Members, members of the Wall of Fame, Citation holders, Distinguished Alumnus Citation holders, Young Alumnus awardees, Service Key holders, Order of the Transit holders, Certificate of Service holders, Outstanding Alumnus awardees, Building Loan Fund Trustees, Education Foundation Directors, National Council Members, and Active Advisors.
