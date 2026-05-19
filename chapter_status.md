@@ -15,7 +15,6 @@ Chapter Status
 <b>Former Groups (38):</b> Akron (1997), Arizona (1977), Cal Poly Pomona (2023), California (2017), Charlotte (2021), Clarkson (1970), Colorado (1970), Colorado State (2023), Connecticut (1998), Cornell (1985), Florida Atlantic (2019), Georgia Tech (2018), Houston (2019), Iowa (1948), Kansas State (2018), Mankato State (1993), Marquette (2019), Maryland (2000), Mississippi State (1987), Missouri (1933), Nebraska (2010), Northern Illinois (2008), Northwestern (1987), Oklahoma (2023), Oklahoma State (1995), Oregon State (2014), RIT (2010), Southern Illinois (1979), Tennessee Tech (1993), Texas A&M (1999), Tri-State (2009), UC Irvine (2025), UCLA (2024), UCSD (2018), UMBC (2018), UTA (2000), VCU (2023), Wright State (1994)
 
 <b>Expansions:</b> 
-Spring 2026: North Carolina State (ncsu); 
-Fall 2026: TBD;
-Spring 2027: Dayton (day); 
-Fall 2027: UConn, Oklahoma State, or Embry-Riddle (erau);
+Spring 2026: UMass Amherst, North Carolina State (ncsu), UCLA;
+Fall 2026: Oklahoma State (oks);
+Spring 2027: Dayton (day), UConn (conn)
