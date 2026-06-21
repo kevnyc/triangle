@@ -31,7 +31,7 @@ members. Leadership School includes the Awards Luncheon and Annual Banquet.
 |March 3-5, 1921|Champaign, Illinois|Convention|
 |May 4-6, 1922|Madison, Wisconsin|Convention|
 |May 3-5, 1923|West Lafayette, Indiana|Convention|
-|May 8-l0, 1924|Lexington, Kentucky|Convention|
+|May 8-10, 1924|Lexington, Kentucky|Convention|
 |April 30-May 2, 1925|Cincinnati, Ohio|Convention|
 |April 22-24, 1926|Chicago, Illinois|Convention|
 |April 28-30, 1927|Chicago, Illinois|Convention|
