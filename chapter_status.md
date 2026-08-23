@@ -8,7 +8,7 @@ Chapter Status
 ==============
 <b>Chapters (28):</b> Armour, Cincinnati, Colorado, Illinois, Iowa State, Kansas, Kentucky, Louisville, Michigan, Michigan State, Michigan Tech, Minnesota, Missouri Mines, MSOE, Ohio State, Penn State, Penn State Behrend, Pitt, Purdue, Rose Tech, South Dakota Mines, Toledo, Utah, UWM, VPI, Washington, Washington State, Wisconsin
 
-<b>Colonies (11):</b> Colorado State, Denver (den), Grand Valley State (gvs), Marquette, Massachusetts, Nebraska, North Carolina State, Texas (tex), Texas A&M, UC Irvine, UCSD
+<b>Colonies (11):</b> Colorado State, Denver (den), Grand Valley State (gvs), Marquette, Massachusetts, Nebraska, North Carolina State (ncsu), Texas (tex), Texas A&M, UC Irvine, UCSD
 
 <b>Interest Groups (0):</b> UCLA
 
