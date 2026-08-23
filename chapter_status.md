@@ -10,7 +10,7 @@ Chapter Status
 
 <b>Colonies (11):</b> Colorado State, Denver (den), Grand Valley State (gvs), Marquette, Massachusetts, Nebraska, North Carolina State (ncsu), Texas (tex), Texas A&M, UC Irvine, UCSD
 
-<b>Interest Groups (0):</b> UCLA
+<b>Interest Groups (1):</b> UCLA
 
 <b>Former Groups (38):</b> Akron (1997), Arizona (1977), Cal Poly Pomona (2023), California (2017), Charlotte (2021), Clarkson (1970), Clemson (2026), Colorado State (2023), Connecticut (1998), Cornell (1985), Florida Atlantic (2019), Georgia Tech (2018), Houston (2019), Iowa (1948), Kansas State (2018), Mankato State (1993), Marquette (2019), Maryland (2000), Mississippi State (1987), Missouri (1933), Nebraska (2010), Northern Illinois (2008), Northwestern (1987), Oklahoma (2023), Oklahoma State (1995), Oregon State (2014), RIT (2010), Southern Illinois (1979), Tennessee Tech (1993), Texas A&M (1999), Tri-State (2009), UC Irvine (2025), UCLA (2024), UCSD (2018), UMBC (2018), UTA (2000), VCU (2023), Wright State (1994)
 
