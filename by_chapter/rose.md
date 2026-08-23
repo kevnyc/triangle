@@ -18,6 +18,7 @@ parent: Awards by Chapter
 <td><b>Randall E. Drew</b> rose67 (1971-77, 2009-19)
 <br><b>David C. Jordan</b> rose69 (1981-87)
 <br>James A. Thorp rose88 (1996-97)
+<br>Daniel Allen rose25 (2026- )
 </td></tr>
 
 <tr>

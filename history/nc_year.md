@@ -1102,5 +1102,19 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Lucas Wallace kan11|
 |Active Councilman      |Kyan Kotschevar-Smead waz25|
 |Immediate Past Pres    |Ryan M. Sunyak tol10|
+| | |
+|__2026-27__||
+|President              |Peter L. Satre os89|
+|Vice President         |Robert L. Goehring is76|
+|Secretary              |Darrell G. Messer II lou03|
+|Treasurer              |Curtis J. Bakle tol89|
+|Member                 |Fareed J. Dibazar ucsd12|
+|Member                 |Kevin Y. Fong ucla84|
+|Member                 |Jake J. Hoppert msu10|
+|Member                 |John M. Karish pitt70|
+|Member                 |Tyler J. Moore tol09|
+|Member                 |Lucas Wallace kan11|
+|Active Councilman      |Daniel Allen rose25|
+|Immediate Past Pres    |Ryan M. Sunyak tol10|
 
 Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [1960](#1960) [1970](#1970) [1980](#1980) [1990](#1990) [2000](#2000) [2010](#2010) [2020](#2020)

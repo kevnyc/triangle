@@ -17,6 +17,7 @@ parent: Awards by Chapter
 <td>National Council/<b>National President</b>:</td>
 <td><b>Kurt W. Over</b>  pitt83 (1995-2001, 2003-07)
 <br><b>John C. Gargani</b> pitt82 (2004-13)
+<br>John  M. Karish pitt70 (2026- )
 </td></tr>
 
 <tr>

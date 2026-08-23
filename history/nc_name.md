@@ -11,6 +11,7 @@ nav_order: 6
 |Adriansen, John R.|Marquette|1941|1947-1951|
 |Agarwal, Deepansh|MSOE|2019|2023-2024|
 |Albright, Gifford H.|Penn State|1952|1982-1985|
+|Allen, Daniel|Rose Tech|2025|2026-present|
 |Allison, H. Jack|Oklahoma State|1964 (Asc)|1969-1972|
 |Amerman, Daniel J.|Michigan Tech|1995|2001-2003|
 |Armstrong, Nicholas|Washington|2018|2019-2020|
@@ -101,6 +102,7 @@ nav_order: 6
 |Jenkins, Douglas P.|Northwestern|1942|1954-1957|
 |Jordan, David C.|Rose|1969|1981-1987|
 |Kaiser, Frank A.|Wisconsin|1918|1922-1923|
+|Karish, John M.|Pittsburgh|1970|2026-present|
 |Keller, Bradley N.|Nebraska|1969|1979-1981, 1992-1994, 2017-2023|
 |Kennedy, Harold|Marquette|1943|1950-1955|
 |Kennedy, Jerry L.|Louisville|1971|1977-1979|
@@ -110,7 +112,7 @@ nav_order: 6
 |Kingston, William J.|Cornell|1948|1954-1963|
 |Kleinknight, Luster R.|Purdue|1916|1922-1926|
 |Knapp, Willard A.|Illinois|1908 (Asc)|1911-1917|
-|Kotschevar-Smead, Kyan|Washington State|2025|2025-present|
+|Kotschevar-Smead, Kyan|Washington State|2025|2025-2026|
 |Kumar, Neel|Minnesota|2014|2023-2024|
 |Lantz, Raymond L.|Penn State|1951|1970-1972|
 |Larson, Edward|Cincinnati|1922|1947-1950|
@@ -124,7 +126,7 @@ nav_order: 6
 |Manock, Wilbur R.|Illinois|1909|1919-1920|
 |Marshall, James R.|Purdue|1965|1976-1981, 1986-1989|
 |Martin, William C.|Kentucky|1946|1973-1975|
-|Masuda, Stuart J.|UC Irvine|2007|2015-present|
+|Masuda, Stuart J.|UC Irvine|2007|2015-2026|
 |Maudlin, Cecil V.|Purdue|1914|1921-1922|
 |Maxon, Bruce E.|Cincinnati|1921|1927-1929|
 |Mayer, Irvin D.|Purdue|1914|1929-1934|

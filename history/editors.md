@@ -28,4 +28,5 @@ nav_order: 8
 |2016-2019|Ariel Tarosky|
 |2020-2021|Rileigh Roberson|
 |2022|Rileigh Roberson and Ariel Tarosky|
-|2023|Ariel Tarosky|
+|2023-2024|Ariel Tarosky|
+|2025|Kayla Spinella|
