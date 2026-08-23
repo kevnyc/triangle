@@ -856,4 +856,9 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>The UC Irvine Chapter is suspended by National Council.</dd>
 <dt><strong>October 4, 2025</strong></dt>
 <dd>The Washington State Chapter is installed at the Washington State University in Pullman.</dd>
+<dt><strong>July 30, 2026</strong></dt>
+<dd>The Clemson Active Organization is suspended by National Council.</dd>
+<dt><strong>July 30-August 1, 2026</strong></dt>
+<dd>During National Convention in Aurora, Colorado, the Colorado Chapter is reinstalled.</dd>
+
 
