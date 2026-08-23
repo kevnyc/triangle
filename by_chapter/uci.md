@@ -15,7 +15,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Stuart J. Masuda uci07 (2015-)
+<td>Stuart J. Masuda uci07 (2015-26)
 </td></tr>
 
 <tr>
