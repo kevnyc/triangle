@@ -92,5 +92,9 @@ In 1995, National Council established the Triangle Wall of Fame, an ongoing proj
 |2023|Michael S. Butler|Marquette|1993|
 |2024|Leo Millstein|Purdue|1968|
 |2024|Milan C. (Miles) Johnson|Ohio State|1959|
+|2025|Donald Dexter Duhan|Iowa State|1965|
+|2025|Robert D. Hostetler|Purdue|1962|
+|2026|Randy G. Kerns|Missouri Mines|1971|
+|2026|Thomas E. Warborg|South Dakota Mines|1958|
 
 ----

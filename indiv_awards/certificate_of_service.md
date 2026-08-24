@@ -162,5 +162,6 @@ The Triangle Certificate of Service is presented at the discretion of National C
 |2024|John P. Pritchard|Iowa State|1982|
 |2025|Jackson T. Clark|Louisville|2021|
 |2025|John C. Cottage, Jr.|Penn State|2004|
+|2026|Stuart J. Masuda|UC Irvine|2007|
 
 ----

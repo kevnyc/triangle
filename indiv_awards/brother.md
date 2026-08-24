@@ -17,5 +17,6 @@ Awarded to the brother who clearly lives the values of the Code of Ethics of Tri
 |2023|Connor R. Grossnickle|Wisconsin|2019|
 |2024|Jacob Mobley|Purdue|2023|
 |2025|Jacob Faulk|Washington|2022|
+|2026|Arnav Aggarwal|Purdue|2024|
 
 ----

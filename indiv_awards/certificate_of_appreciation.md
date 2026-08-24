@@ -28,5 +28,7 @@ The Triangle Certificate of Appreciation is presented in appreciation of service
 |2016|Brandon Montalvo marq10|Service as an Educational Leadership Consultant|
 |2017|Scott Bova|&nbsp;|
 |2021|Mark E. Tolliver ill70|Service in development of Triangle's new national brand identity|
+|2026|Kyan Kotschevar-Smead was25|Service as Active Councilman during 2025-26|
+|2026|Marco Cordova colo25, Clayton Linneman tamu25, Andrew Scheer waz25|Service as Peer Mentors and Convention Interns during 2025-26|
 
 ----

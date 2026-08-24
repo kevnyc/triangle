@@ -20,5 +20,6 @@ The Oustanding Engineer, Architect, Scientist Award was created to recognize the
 |2023|Samuel P. Duckworth|Ohio State|2021|
 |2024|Ramsey Smith|Pittsburgh|2022|
 |2025|John "Jack" Martin|Iowa State|2023|
+|2026|Alexander Ross|Washington|2024|
 
 ----

@@ -31,5 +31,6 @@ The award is named after Ellison S. Onizuka colo69, who flew on the space shuttl
 |2020|Stephen Wu|Ohio State|2016|
 |2021|Jacob J. Rausch| Toledo|2012|
 |2022|C. Matthew Pulley| Louisville|2004|
+|2026|Ryan M. Sunyak|Toledo|2010|
 
 ----

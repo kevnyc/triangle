@@ -25,5 +25,6 @@ This award has been established to recognize the active or alumnus who best exem
 |2024|Darrell C. Samuels|Purdue|1974|
 |2025|Robert R. Balsbaugh|Iowa State|1974|
 |2025|Eli Walter|Iowa State|2022|
+|2026|Tanner Post|Iowa State|2024|
 
 ----

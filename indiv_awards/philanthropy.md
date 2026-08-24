@@ -17,5 +17,6 @@ nav_order: 7
 |2023|Darwin Yu|UCSD|2022|
 |2024|Ryan Wilson|Iowa State|2023|
 |2025|Jay Bell|Iowa State|2023|
+|2026|Ethan Wentworth|Purdue|2025|
 
 ----
