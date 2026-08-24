@@ -20,8 +20,8 @@ The Compass of Character Award was first presented in 2023.
 |2025|Andrew Cameron|Rose Tech|2023|
 |2025|Justin Quinn|Penn State|2023|
 |2025|Elias S. Erling|Marquette|2023|
-|2025|Clayton Linneman|Texas A&M|2025|
-|2025|Jackson Martin|Washington State|2025|
-|2025|Daniel Muir|Washington|2023|
+|2026|Clayton Linneman|Texas A&M|2025|
+|2026|Jackson Martin|Washington State|2025|
+|2026|Daniel Muir|Washington|2023|
 
 ----
