@@ -30,5 +30,5 @@ Beginning in 2017, awards were presented to one or more chapters who excelled in
 |2023|Wisconsin|
 |2024|Kentucky|
 |2025|Iowa State|
-
+|2026|Iowa State|
 ----

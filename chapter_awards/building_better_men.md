@@ -16,5 +16,7 @@ nav_order: 3
 |2022|Rose Tech (1st place)<br>Ohio State (2nd place)<br>VPI (Rattle)|
 |2023|MSOE (1st place)<br>Wisconsin (2nd place)<br>VPI (Rattle)|
 |2024|Louisville (1st place)<br>Iowa State (2nd place)<br>Washington State (Rattle)|
+|2025|Iowa State (1st place)<br>Rose Tech (2nd place)<br>Denver (Rattle)|
+|2026|Iowa State (1st place)<br>Rose Tech (2nd place)<br>Texas A&M (Rattle)|
 
 ----

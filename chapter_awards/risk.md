@@ -18,5 +18,6 @@ An effective Risk Management Program is essential to any chapter’s survival. T
 |2023|Iowa State|
 |2024|MSOE|
 |2025|Wisconsin|
+|2026|South Dakota Mines|
 
 ----

@@ -18,5 +18,5 @@ There are several pieces that go into making a fraternity successful. The Outsta
 |2023|Wisconsin|
 |2024|Iowa State|
 |2025|Rose Tech|
-
+|2026|Rose Tech|
 ----
