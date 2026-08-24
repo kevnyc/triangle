@@ -33,4 +33,5 @@ Beginning in 2017, awards were presented to one or more chapters who excelled in
 |2024|Minnesota|
 |2025|Louisville|
 |2026|South Dakota Mines|
+
 ----

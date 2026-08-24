@@ -19,4 +19,5 @@ The Outstanding National Involvement by a Chapter Award recognizes a chapter who
 |2024|Iowa State|
 |2025|Louisville|
 |2026|Washington State|
+
 ----

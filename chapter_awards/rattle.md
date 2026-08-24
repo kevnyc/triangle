@@ -21,4 +21,5 @@ From 2018 to 2024, the Rattle Award was a component of the Garatoni Building Bet
 |2024|Washington State|
 |2025|Denver|
 |2026|Texas A&M|
+
 ----

@@ -14,4 +14,5 @@ The Most Improved Chapter Award was first presented in 2023.
 |2024|Washington|
 |2025|Washington|
 |2026|Penn State Behrend|
+
 ----
