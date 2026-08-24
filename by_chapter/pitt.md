@@ -97,7 +97,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Advisor Award/Chapter Advisor of the Year:</td>
-<td>
+<td>John M. Karish pitt70 (2026)
 </td></tr>
 
 <tr>

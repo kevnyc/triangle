@@ -119,6 +119,7 @@ parent: Awards by Chapter
 <tr>
 <td>Executive Board Member of the Year:</td>
 <td>William Wittich rose23 (2025)
+<br>Garrett Walls rose24 (2026)
 </td></tr>
 
 <tr>
@@ -178,6 +179,8 @@ parent: Awards by Chapter
 <br>2004 - 1st Place CPA
 <br>2005 - 1st Place CPA
 <br>2022 - Building Better Men Award - 1st place
+<br>2025 - Building Better Men Award - 2nd place
+<br>2026 - Building Better Men Award - 2nd place
 </td></tr>
 
 <tr>
@@ -230,6 +233,7 @@ parent: Awards by Chapter
 <br>2011 - Community Service Award
 <br>2013 - Campus Involvement Award
 <br>2025 - Chapter Operations Award
+<br>2026 - Chapter Operations Award
 </td></tr>
 
 <tr>

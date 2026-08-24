@@ -30,7 +30,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Service:</td>
-<td>
+<td>Stuart J. Masuda uci07 (2026)
 </td></tr>
 
 <tr>

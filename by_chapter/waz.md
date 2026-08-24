@@ -35,7 +35,8 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>
+<td>Kyan Kotschevar-Smead waz25 (2026)
+<br>Andrew Scheer waz25 (2026)
 </td></tr>
 
 <tr>
@@ -130,7 +131,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Jackson Martin waz25 (2026)
 </td></tr>
 
 </tbody>
@@ -158,7 +159,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>
+<td>2026 - National Involvement Award
 </td></tr>
 
 <tr>

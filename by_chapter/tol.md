@@ -71,6 +71,7 @@ parent: Awards by Chapter
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Jacob J. Rausch tol12 (2021)
+<br>Ryan M. Sunyak tol10 (2026)
 </td></tr>
 
 <tr>

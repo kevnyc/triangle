@@ -49,6 +49,7 @@ parent: Awards by Chapter
 <td>Edward R. McCracken is64 (1996)
 <br>Lynn J. Davis is65 (2005)
 <br>John P. Pritchard is82 (2014)
+<br>Donald Dexter Duhan is65 (2026)
 </td></tr>
 
 <tr>
@@ -114,7 +115,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>
+<td>Nolan Zimmerman is22 (2026)
 </td></tr>
 
 <tr>
@@ -130,6 +131,7 @@ parent: Awards by Chapter
 <tr>
 <td>Senior of the Year:</td>
 <td>Ethan Rosonke is20 (2024)
+<br>Cullen Oneil is22 (2026)
 </td></tr>
 
 <tr>
@@ -143,6 +145,7 @@ parent: Awards by Chapter
 <br>Gabriel Bayse is21 (2024)
 <br>Robert R. Balsbaugh is74 (2025)
 <br>Eli Walter is22 (2025)
+<br>Tanner Post is24 (2026)
 </td></tr>
 
 <tr>
@@ -186,7 +189,10 @@ parent: Awards by Chapter
 <br>2020 - Building Better Men Award - 1st place
 <br>2020 - Chapter of the Year
 <br>2024 - Building Better Men Award - 2nd place
+<br>2025 - Building Better Men Award - 1st place
 <br>2025 - Chapter of the Year
+<br>2026 - Building Better Men Award - 1st place
+<br>2026 - Chapter of the Year
 </td></tr>
 
 <tr>
@@ -227,6 +233,7 @@ parent: Awards by Chapter
 <br>2024 - National Involvement Award
 <br>2024 - Chapter Operations Award
 <br>2025 - Philanthropy and Service Award
+<br>2026 - Philanthropy and Service Award
 </td></tr>
 
 <tr>

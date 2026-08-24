@@ -35,7 +35,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>
+<td>Marco Cordova colo25 (2026)
 </td></tr>
 
 <tr>

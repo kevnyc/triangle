@@ -60,7 +60,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Engineer/Architect/Scientist of the Year:</td>
-<td>
+<td>Alexander Ross wash24 (2026)
 </td></tr>
 
 <tr>
@@ -130,7 +130,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Daniel Muir wash23 (2026)
 </td></tr>
 
 </tbody>
@@ -154,11 +154,12 @@ parent: Awards by Chapter
 <td>Scholarship:</td>
 <td>2020 - Outstanding Academic Excellence - 1st place
 <br>2025 - Outstanding Academic Excellence - 1st place
+<br>2026 - Outstanding Academic Excellence - 1st place
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>
+<td>2026 - Recruitment and Retention Award
 </td></tr>
 
 <tr>

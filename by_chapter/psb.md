@@ -144,6 +144,7 @@ parent: Awards by Chapter
 <tr>
 <td>General:</td>
 <td>2018 - Building Better Men Award - 1st place
+<br>2026 - Most Improved Chapter
 </td></tr>
 
 <tr>

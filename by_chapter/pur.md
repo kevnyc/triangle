@@ -97,6 +97,7 @@ parent: Awards by Chapter
 <br>Robert M. Davidson pur61 (2019)
 <br>Norris R. Crump pur27 (2022)
 <br>Leo Millstein pur68 (2024)
+<br>Robert D. Hostetler pur62 (2026)
 </td></tr>
 
 <tr>
@@ -152,7 +153,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Philanthropy and Service by an Individual:</td>
-<td>
+<td>Ethan Wentworth pur25 (2026)
 </td></tr>
 
 <tr>
@@ -199,6 +200,7 @@ parent: Awards by Chapter
 <tr>
 <td>Brother of the Year:</td>
 <td>Jacob Mobley pur23 (2024)
+<br>Arnav Aggarwal pur24 (2026)
 </td></tr>
 
 <tr>

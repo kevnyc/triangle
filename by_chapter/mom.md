@@ -47,6 +47,7 @@ parent: Awards by Chapter
 <br>Gregory A. Lang mom74 (2010)
 <br>Stephen A. Lang mom77 (2010)
 <br>Paul A. Lang mom80 (2010)
+<br>Randy G. Kerns mom71 (2026)
 </td></tr>
 
 <tr>

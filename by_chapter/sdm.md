@@ -48,6 +48,7 @@ parent: Awards by Chapter
 <br>Stephen D. Newlin sdm73 (2009)
 <br>Dean M. Peterson sdm53 (2012)
 <br>William R. Hoskins sdm48 (2019)
+<br>Thomas E. Warborg sdm58 (2026)
 </td></tr>
 
 <tr>
@@ -219,6 +220,8 @@ parent: Awards by Chapter
 <br>2018 - Campus Involvement Award
 <br>2018 - Risk Reduction and Education Award
 <br>2022 - Campus Involvement Award
+<br>2026 - Campus Involvement Award
+<br>2026 - Risk Reduction and Education Award
 </td></tr>
 
 <tr>

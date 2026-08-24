@@ -148,7 +148,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Scholarship:</td>
-<td>
+<td>2026 - Outstanding Academic Excellence - 2nd place
 </td></tr>
 
 <tr>

@@ -35,7 +35,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>
+<td>Clayton Linneman tamu25 (2026)
 </td></tr>
 
 <tr>
@@ -130,7 +130,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Clayton Linneman tamu25 (2026)
 </td></tr>
 
 </tbody>
@@ -143,7 +143,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>
+<td>2026 - Rattle Award
 </td></tr>
 
 <tr>
