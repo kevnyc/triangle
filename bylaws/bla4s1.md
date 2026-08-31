@@ -17,7 +17,7 @@ grand_parent: National Bylaws
 
 <ol type="a">
 <li>The National Candidate Fee, as defined in the National Constitution, 
-shall be billed per individual pledged and shall not be refundable. The National Candidate Fee shall be remitted to the National Office with the report of pledging.
+shall be billed per individual pledged and shall not be refundable. The National Candidate Fee shall be paid to the National Headquarters within two (2) weeks of receipt of invoice.
 </li>
 <li>In the event the National Candidate Fee is received in the National 
 Office after the time provided for in these Bylaws, the active 

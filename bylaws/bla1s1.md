@@ -117,11 +117,8 @@ that may become known to me."
 <li>The president or his designee shall then affix the candidate pin to the coat lapel or shirt or sweater of the candidate, telling him that he is expected to wear it in an appropriate manner until initiated.</li>
 
 <li>Following administration of the candidate oath, the active
-organization shall forward to the National Office a Notice of
-Candidacy  and the appropriate National Candidate Fee.  A separate
-form shall be filed for each candidate.  These forms and fees shall
-be received by the National Office not more than fourteen (14)
-days following the date of pledging.</li>
+organization shall report the new candidate(s) within fourteen 
+(14) days to the National Headquarters via a process approved by National Council.</li>
 </ol>
 
 ### Para. 3 - Education and Probation Period
@@ -207,8 +204,10 @@ Any candidate who fails to be so elected shall be released
 immediately, in the manner prescribed in these Bylaws.</li>
 
 <li><p>After selection of a date for initiation, the active
-organization shall forward to the National Office a Request for
-Initiation, the form of which shall be specified by the National Office, and the appropriate National Member Service Fee. Such requests and fees shall be forwarded to reach the National Office at least fourteen (14) days before the date of the proposed initiation.</p>
+organization shall submit to the National Headquarters a Request for
+Initiation, the process of which shall be specified by the National Headquarters, 
+and the appropriate National Member Service Fee. Such requests and fees shall reach 
+the National Headquarters at least fourteen (14) days before the date of the proposed initiation.</p>
 
 <p>No candidate shall be conducted through any part of the
 initiation ceremony until definite permission to initiate has
@@ -234,10 +233,6 @@ each initiate shall have no voting rights beyond those accorded
 candidates until he has satisfied the following requirements:
 
 <ol type="i">
-<li>Each initiate shall fill out and sign a Membership Record
-which he shall present to the secretary of the active
-organization for approval;</li>
-
 <li>Each initiate shall fill out and sign a sheet in the
 Membership Book of the chapter;</li>
 
@@ -257,11 +252,9 @@ organization.</li>
 <ol type="a">
 <li>National Council, upon request from a chapter, may approve the posthumous initiation of a candidate.  Such approval shall require a two-thirds (2/3) vote of National Council.</li>
 
-<li>After selection of a date for initiation, the active organization shall forward to the National Office a Request for Initiation, the form of which shall be specified by the National Office.  Such requests shall be forwarded to reach the National Office at least fourteen (14) days before the date of the proposed initiation.</li>
+<li>After selection of a date for initiation, the active organization shall submit to the National Headquarters a Request for Initiation, the form of which shall be specified by the National Headquarters.  Such requests shall be submitted to the National Headquarters at least fourteen (14) days before the date of the proposed initiation.</li>
 
 <li>The initiation of member shall be acknowledged by the chapter in a manner consistent with the Ritual of TRIANGLE.</li>
-
-<li>Following the initiation the secretary of the active organization shall complete a Membership Record for the initiate.</li>
 </ol>
 
 ### Para. 6 - Affiliation
