@@ -15,7 +15,7 @@ grand_parent: National Bylaws
 
 ### Para. 1
 
-The Nominating Committee shall consist of six (6) voting members. The chairman shall be the Past President or, if the current Past President on National Council is unable or unwilling to serve, the most recent Past President able and willing to serve. The vice chairman shall be appointed by National Council from among those of its members whose terms are not expiring.  Each year, two members of the Nominating Committee shall be appointed by National Council for two-year terms. These members shall, at the time of their appointment to the committee, be representatives of chapters not currently or in the previous year represented on National Council.
+The Nominating Committee shall consist of six (6) voting members. The chairman shall be the Past President or, if the current Past President on National Council is unable or unwilling to serve, the most recent Past President able and willing to serve. The vice chairman shall be appointed by National Council from among those of its members whose terms are not expiring.  Each year, two (2) members of TRIANGLE shall be appointed by National Council for two-year terms.
 
 ### Para. 2
 
