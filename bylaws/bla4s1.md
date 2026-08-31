@@ -69,7 +69,8 @@ remaining length of the term.
 <li>The National Education Fee, as defined in the National Constitution, is payable by the active organization once per academic year.
 </li>
 
-<li>The National Education Fee shall be calculated based on a three-year rolling average of the number of active members in the chapter, including members who are receiving academic credit for participation in a cooperative education program in the United States.
+<li>The National Education Fee shall be calculated based on a three-year rolling average of the number of active members in the chapter, including members who are receiving academic credit for participation in a cooperative education program in the United States. The Executive Director, with approval from National Council, may reduce an active organization’s National Education Fee
+from its originally calculated amount.
 </li>
 <li>The National Education Fee shall be eligible for payment with monies restricted for educational purposes.
 </li>
