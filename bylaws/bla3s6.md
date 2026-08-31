@@ -16,9 +16,9 @@ grand_parent: National Bylaws
 ### Para. 1
 
 The Editor of TRIANGLE REVIEW, appointed by National Council, shall edit 
-the official publication of TRIANGLE; he shall appoint such assistants as 
-may be required to carry on this work; and he shall publish the REVIEW at 
-least four times throughout the year.
+the official publication of TRIANGLE; shall appoint such assistants as 
+may be required to carry on this work; and shall publish the REVIEW at 
+least two (2) times per year.
 
 ### Para. 2
 
